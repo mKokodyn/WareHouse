@@ -1,0 +1,14 @@
+C:\SoftServe\Homework\Final_Project\WareHouse\bin\Debug\net8.0\WareHouse.exe
+C:\SoftServe\Homework\Final_Project\WareHouse\bin\Debug\net8.0\WareHouse.deps.json
+C:\SoftServe\Homework\Final_Project\WareHouse\bin\Debug\net8.0\WareHouse.runtimeconfig.json
+C:\SoftServe\Homework\Final_Project\WareHouse\bin\Debug\net8.0\WareHouse.dll
+C:\SoftServe\Homework\Final_Project\WareHouse\bin\Debug\net8.0\WareHouse.pdb
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.AssemblyInfoInputs.cache
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.AssemblyInfo.cs
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.csproj.CoreCompileInputs.cache
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.dll
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\refint\WareHouse.dll
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.pdb
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\WareHouse.genruntimeconfig.cache
+C:\SoftServe\Homework\Final_Project\WareHouse\obj\Debug\net8.0\ref\WareHouse.dll
