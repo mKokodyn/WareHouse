@@ -8,7 +8,7 @@ namespace WareHouse
 {
     public class Program
     {
-        const string FILEPATH = "products.json";
+        const string FILEPATH = @"data/products.json";
         static void Main(string[] args)
         {
             

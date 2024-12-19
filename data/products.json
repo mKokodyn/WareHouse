@@ -1,0 +1,135 @@
+[
+  {
+    "ProductType": 1,
+    "ProductName": 1,
+    "ProductId": 638700692165280671,
+    "TradeMark": "Ferma",
+    "Price": 10.5
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 1,
+    "ProductId": 638700692165320776,
+    "TradeMark": "Pole",
+    "Price": 20.5
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 1,
+    "ProductId": 638700692165320793,
+    "TradeMark": "Korivka",
+    "Price": 15
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 1,
+    "ProductId": 638700692165320796,
+    "TradeMark": "Korivka",
+    "Price": 15
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 2,
+    "ProductId": 638700692165321221,
+    "TradeMark": "Pole",
+    "Price": 15
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 2,
+    "ProductId": 638700692165321537,
+    "TradeMark": "Korivka",
+    "Price": 23.1
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 2,
+    "ProductId": 638700692165321539,
+    "TradeMark": "Vershkovyy",
+    "Price": 25.3
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 4,
+    "ProductId": 638700692165322192,
+    "TradeMark": "Drogobycka",
+    "Price": 150.5
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 4,
+    "ProductId": 638700692165322466,
+    "TradeMark": "Smakota",
+    "Price": 200
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 4,
+    "ProductId": 638700692165322471,
+    "TradeMark": "Volynska",
+    "Price": 175
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 3,
+    "ProductId": 638700692165322716,
+    "TradeMark": "Sviganyna",
+    "Price": 200
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 3,
+    "ProductId": 638700692165322920,
+    "TradeMark": "Smakota",
+    "Price": 250
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 3,
+    "ProductId": 638700692165322922,
+    "TradeMark": "Myasko",
+    "Price": 300
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 3,
+    "ProductId": 638700692165322923,
+    "TradeMark": "Sviganyna",
+    "Price": 300
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 3,
+    "ProductId": 638700692165322925,
+    "TradeMark": "Myasna hatka",
+    "Price": 300
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 1,
+    "ProductId": 638701605484394658,
+    "TradeMark": "Milk1",
+    "Price": 34
+  },
+  {
+    "ProductType": 1,
+    "ProductName": 2,
+    "ProductId": 638701605728370498,
+    "TradeMark": "yogurt1",
+    "Price": 56
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 3,
+    "ProductId": 638701605882338568,
+    "TradeMark": "meat1",
+    "Price": 56
+  },
+  {
+    "ProductType": 2,
+    "ProductName": 4,
+    "ProductId": 638701606005404194,
+    "TradeMark": "sausage1",
+    "Price": 78
+  }
+]
