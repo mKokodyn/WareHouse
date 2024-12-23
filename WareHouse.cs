@@ -12,10 +12,6 @@ namespace WareHouse
     public class WareHouse
     {
         public List<IProduct> Products { get; set; } = new List<IProduct>();
-        public WareHouse()
-        {
-            
-        }
 
         /// <summary>
         /// Return all products in warehouse
